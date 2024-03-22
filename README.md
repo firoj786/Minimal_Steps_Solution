@@ -67,8 +67,9 @@ public class MinimalStepsSolution {
         return steps;
         
     }
-    
-}
+    }
+
+
 Approach:
 
 The code aims to calculate the minimal steps required to transform a given 
